@@ -1,4 +1,5 @@
 # Assignment-3
+Author : SYAM KUMAR K S
 Task 1: Calculate Factorial Using a Function 
 Problem Statement: Write a Python program that:
 1.   Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
